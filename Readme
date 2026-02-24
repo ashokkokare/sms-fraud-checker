@@ -1,0 +1,7 @@
+rails new <ProjectName> --api -d postgresql
+You, Thu 5:15 PM
+gem install bcrypt (FOR incryption and decription)
+rails g model <TableName> <columnName:typeof>
+rails g controller <folderContainPath>
+rails generate migration <AddColumnName>To<TableName> <ColumnName : typeOf>
+bundle add ruby-openai #For openAi library
